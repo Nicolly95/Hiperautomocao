@@ -35,7 +35,7 @@ API REST desenvolvida em Spring Boot integrada com automação web via Playwrigh
 ## 🔧 Configuração e Execução
 
 1. Clone o repositório:
-Bash
+
   ```
   git clone https://github.com/Nicolly95/Hiperautomocao.git
   cd transparencia-bot
@@ -45,13 +45,13 @@ Bash
 Certifique-se de que o seu arquivo de credenciais da Service Account está configurado no projeto (o arquivo está ignorado pelo Git por segurança).
 
 3. Execute a aplicação via Maven:
-Bash
+
   ```
   mvn spring-boot:run
   ```
 
 4. Acesse o Swagger UI:
-Abra no seu navegador o endereço:http://localhost:8080/swagger-ui/index.html
+Abra no seu navegador o endereço :http://localhost:8080/swagger-ui/index.html
 
 
 ## 🧪 Endpoints da API
